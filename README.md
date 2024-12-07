@@ -38,7 +38,7 @@ Objectives
 ________________________________________
 How to Use
   1.	Clone this repository: 
-  2.	git clone [https://github.com/<your-username>/<repository-name>.git](https://github.com/IT21176838/24-25J-312_MyMind.git)
+  2.	git clone https://github.com/IT21176838/24-25J-312_MyMind.git
   3.	Set up the environment by following the SETUP.md guide.
   4.	Launch the application and explore its features.
 ________________________________________
