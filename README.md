@@ -1,4 +1,4 @@
-# 24-25J-312_MyMind
+# 24-25J-312_WellNexus
 
 Advancing Mental Health Assessment: Data-Driven Approaches for Better Outcomes
 Project Overview
@@ -23,7 +23,7 @@ Features
   •	AI models analyze feedback and generate insights for continuous improvement.
 ________________________________________
 Technical Stack
-  •	Frontend: Android App Development using Kotlin/Java
+  •	Frontend: Android App Development using React Native
   •	Backend: Python for AI/ML model integration
   •	NLP Libraries: SpaCy, Hugging Face Transformers
   •	Database: Firebase / MongoDB
